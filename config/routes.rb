@@ -1,4 +1,5 @@
 SimpleCms::Application.routes.draw do
+
   
   
   # get "subjects/index"
