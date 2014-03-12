@@ -9,4 +9,5 @@ module SubjectsHelper
 		else
 			content_tag(:span, options[:false_text], :class => 'status false')
 		end
+	end
 end
