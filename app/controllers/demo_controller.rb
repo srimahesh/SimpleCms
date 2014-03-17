@@ -1,6 +1,8 @@
 class DemoController < ApplicationController
   
   # layout false
+  layout "application"
+
   # Action when in context with a controller, uses a layout too
   def index
 
